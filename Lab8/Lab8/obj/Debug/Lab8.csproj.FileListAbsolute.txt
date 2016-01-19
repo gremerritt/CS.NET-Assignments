@@ -1,0 +1,9 @@
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\GregMerritt\Desktop\EC447\Lab8\Lab8\Lab8\obj\Debug\Lab8.slide_show_viewer.resources
