@@ -1,0 +1,1 @@
+All source code here is property of Greg Merritt, written as part of a course in Software Engineering. It is not to be used or copied as part of any educational course and/or without my consent. All problems created by Prof. T Skinner.
